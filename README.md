@@ -133,4 +133,4 @@ See the [LICENSE](LICENSE) file for details.
 ---
 
 ## 🙌 Acknowledgments
-- Course materials and microservice codebase provided by [Dick Chesterwood](https://github.com/DickChesterwood).  
+- Microservice codebase provided by [Dick Chesterwood](https://github.com/DickChesterwood).  
